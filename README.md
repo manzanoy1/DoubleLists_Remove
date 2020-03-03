@@ -1,1 +1,0 @@
-# DoubleString_Remove
